@@ -40,6 +40,7 @@ Linux OS
 ```
 
 <h4>Commands:</h4>
+
 ```
 bucks_start
 ```
@@ -61,20 +62,22 @@ bucks_exit
 ```
   - Quits the Bucks Reward.
 
+
 <h4>System Specifications:</h4>
+
 ```
 Minimum Specifications:
+  - RAM: 8GB
+  - Disk Space: 1GB
+  - CPU:
+    - (Mimimum 4 core CPU)
+    - Intel: 
+    - Intel i3 8th gen or later
+    - Intel i5 2nd gen or later
+    - Intel i7 2nd gen or later
+  - AMD:
+    - Ryzen 3 1200 or later
+    - Ryzen 5 1400 or later
+    - Ryzen 7 1700 or later
+  - GPU: 2GB
 ```
-  RAM: 8GB
-  Disk Space: 1GB
-  CPU:
-    (Mimimum 4 core CPU)
-    Intel: 
-    Intel i3 8th gen or later
-    Intel i5 2nd gen or later
-    Intel i7 2nd gen or later
-  AMD:
-    Ryzen 3 1200 or later
-    Ryzen 5 1400 or later
-    Ryzen 7 1700 or later
-  GPU: 2GB
